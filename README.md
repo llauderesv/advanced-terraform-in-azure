@@ -1,4 +1,4 @@
-terraform import azurerm_resource_group.guru  /subscriptions/0f39574d-d756-48cf-b622-0e27a6943bd2/resourceGroups/625-4c706924-import-existing-resources-into-terraf
+# Advanced Terraform Course in Azure
 
 Azure Storage Account provides a default Encryption at Rest means that the data stored in Azure Blob is encrypted before being persisted.
 
